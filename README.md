@@ -7,3 +7,8 @@ Markdown table example
 | TD | TD |
 | TD | TD |
 ```
+
+| TH | TH |
+| ---- | ---- |
+| TD | TD |
+| TD | TD |
